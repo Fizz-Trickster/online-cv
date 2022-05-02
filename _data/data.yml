@@ -174,19 +174,10 @@ skills:
       - name: Python
         level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Verilog & SystemVerilog
+        level: 90%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: C & C++
         level: 60%
 
 footer: >
