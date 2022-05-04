@@ -159,11 +159,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python
-        level: 80%
-
       - name: Verilog & SystemVerilog
         level: 90%
+        
+      - name: Python
+        level: 75%
 
       - name: C & C++
         level: 60%
