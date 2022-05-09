@@ -16,7 +16,7 @@ sidebar:
     phone: 010 4549 4428
     citizenship:
     website:  #do not add http://
-    linkedin: alandoe
+    linkedin: 
     xing: 
     github: Fizz-Trickster
     telegram: # add your nickname without '@' sign
@@ -42,7 +42,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Youngseo Yoon received the B.S. degree in Computer Science & Engineering and Electronics & Electrical Engineering(Double Major) from Chung-Ang University (CAU), Seoul, South Korea, in 2018. 
+      Youngseo Yoon received the B.S. degree in Computer Science & Engineering and Electronics & Electrical Engineering (Double Major) from Chung-Ang University (CAU), Seoul, South Korea, in 2018. 
       He is currently an assistant research engineer at LX Semicon.
 
 education:
@@ -52,7 +52,7 @@ education:
       details: |
 
 experiences:
-    - role: Lead Developer
+    - role: Assistant Research Engineer
       time: 2015 - Present
       company: LX Semicon, Seoul, South Korea
       details: |
