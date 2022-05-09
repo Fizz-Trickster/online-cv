@@ -53,11 +53,14 @@ education:
 
 experiences:
     - role: Assistant Research Engineer
-      time: 2015 - Present
+      time: 2019 - Present
       company: LX Semicon, Seoul, South Korea
       details: |
-          - Mobile Image Enhancement 
-          - Host Interface 
+          -- RTL Designer 
+          
+          -- Mobile Image Enhancement 
+          
+          -- Host Interface 
 
 projects:
     title: Projects
