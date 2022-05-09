@@ -62,13 +62,13 @@ projects:
     title: Projects
     intro: |
     assignments:
-      - title: Samsung Galaxy A and M Series Mobile Display Driver IC mass production
+      - title: Samsung Galaxy A and M Series Mobile Display Driver IC mass production |
         tagline: "LX Semicon, 2020 - Present"
         
-      - title: Honor P Series Mobile Display Driver IC mass production
+      - title: Honor P Series Mobile Display Driver IC mass production | 
         tagline: "LX Semicon, 2020 - 2021"
         
-      - title: LG Velvet Mobile Display Driver IC mass production
+      - title: LG Velvet Mobile Display Driver IC mass production |
         tagline: "LX Semicon, 2019 - 2020"
 
 publications:
