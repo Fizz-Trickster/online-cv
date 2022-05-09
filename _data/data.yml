@@ -36,9 +36,10 @@ sidebar:
         level: Intermediate
 
     interests:
-      - item: SoC
-      - item: VLSI
-      
+      - item: VLSI design
+      - item: Computer Architecture
+      - item: FPGA
+
 career-profile:
     title: Career Profile
     summary: |
