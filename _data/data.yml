@@ -79,16 +79,8 @@ publications:
     intro: |
     papers:
       - title: Low-cost metamaterial absorber using three-dimensional circular truncated cone
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: <strong>Youngseo Yoon</strong>, Daecheon Lim, Manos M. Tentzeris, Sungjoon Lim
+        journal: Microwave and Optical Technology Letters (MOTL), 2018
 
 skills:
     title: Skills &amp; Proficiency
