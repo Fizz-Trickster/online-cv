@@ -39,7 +39,7 @@ sidebar:
       - item: Computer Architecture
       - item: SoC
       - item: VLSI design
-      - item: FPGA
+      - item: hardware/software systems
 
 career-profile:
     title: Career Profile
